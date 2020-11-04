@@ -1,0 +1,43 @@
+{
+  "name": "B9Santri",
+  "short_name": "B9Santri",
+  "lang": "en-ID",
+  "start_url": "https://www.b9santri.com/?m=1/?utm_source=pwa_install",
+  "display": "standalone",
+  "scope": "https://www.b9santri.com/",
+  "theme_color": "#42b549",
+  "background_color": "#FFFFFF",
+  "gcm_sender_id": "704511797260",
+  "permissions": ["gcm"],
+  "prefer_related_applications": false,
+  "description": "Ahhlussunah Waljamaah, Hubul Wathon Minal Iman",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-u-nmbLi_AmE/X6I5wLU36uI/AAAAAAAAXdQ/vAJH4mDheZEOhmj6gWq8szNiGgS8RqYUACLcBGAsYHQ/s48/logo-min.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-u-nmbLi_AmE/X6I5wLU36uI/AAAAAAAAXdQ/vAJH4mDheZEOhmj6gWq8szNiGgS8RqYUACLcBGAsYHQ/s72/logo-min.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-u-nmbLi_AmE/X6I5wLU36uI/AAAAAAAAXdQ/vAJH4mDheZEOhmj6gWq8szNiGgS8RqYUACLcBGAsYHQ/s96/logo-min.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-u-nmbLi_AmE/X6I5wLU36uI/AAAAAAAAXdQ/vAJH4mDheZEOhmj6gWq8szNiGgS8RqYUACLcBGAsYHQ/s144/logo-min.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-u-nmbLi_AmE/X6I5wLU36uI/AAAAAAAAXdQ/vAJH4mDheZEOhmj6gWq8szNiGgS8RqYUACLcBGAsYHQ/s168/logo-min.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-u-nmbLi_AmE/X6I5wLU36uI/AAAAAAAAXdQ/vAJH4mDheZEOhmj6gWq8szNiGgS8RqYUACLcBGAsYHQ/s192/logo-min.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-u-nmbLi_AmE/X6I5wLU36uI/AAAAAAAAXdQ/vAJH4mDheZEOhmj6gWq8szNiGgS8RqYUACLcBGAsYHQ/s512/logo-min.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
